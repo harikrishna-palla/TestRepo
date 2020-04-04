@@ -21,14 +21,14 @@ public class Products {
         return prod_name;
     }
 
-   /* public Byte getFlag() {
+    public Byte getFlag() {
         return flag;
     }
 
     public void setFlag(Byte flag) {
         this.flag = flag;
     }
-*/
+
     public void setProd_name(String prod_name) {
         this.prod_name = prod_name;
     }
